@@ -2,4 +2,4 @@
 
 g++ -c func.cpp
 g++ -c main.cpp
-g++ -o main main.o func.o
+g++ -o lab2 main.o func.o
